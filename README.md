@@ -1,6 +1,7 @@
 # Я протестировал методы для веб приложения https://demoshopping.ru/ в Postman, и создал соответствующие коллекции
 - Коллекция: Веб приложение Demoshopping.ru
 https://www.postman.com/denis-3873130/my-workspace/collection/3mtwcu5/demoshopping
+- Test run
 [DemoShopping.postman_test_run.json](https://github.com/user-attachments/files/20573260/DemoShopping.postman_test_run.json)
 - Коллекция: SOAP
 https://www.postman.com/denis-3873130/my-workspace/collection/28a3uow/soap
